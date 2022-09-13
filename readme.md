@@ -1,4 +1,4 @@
-Hello. I like C and C++ programming and just doing things for fun.
+Hello. I like C and C++ programming or trying something new, and just doing things for fun.
 I'm working on a silly little game right now. Here's some projects I made:
 
 <p align="center"><img src="save_scum.gif" alt="Game where you need to save/load states"/></p>
