@@ -17,4 +17,4 @@ I'm working on a silly little game right now. Here's some projects I made:
 
 *Space tower defense made in C using sokol, collab project, not finished: (https://github.com/collab4mb/space)*
 
-Etc..  
+Etc uwu
